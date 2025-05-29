@@ -6,7 +6,7 @@ Dataset from https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metada
 
 Requires a .env file with an OpenAI key.
 
-### data-exploration
+* data-exploration
 
 Clean the data to have books_cleaned.csv
 
